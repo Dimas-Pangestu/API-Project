@@ -1,0 +1,46 @@
+﻿
+@*@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <tittle>Index</tittle>
+</head>
+<body>
+</body>
+</html>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script>$.ajax({
+        url: "https://localhost:44352/API/Employees/",
+        succes: function (result) {
+            console.log(result);
+        }
+    })</script>*@
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+</body>
+</html>
+<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script>$.ajax({
+        url: "https://localhost:5001/API/Employees",
+        success: function (result) {
+            console.log(result);
+        }
+    })</script>

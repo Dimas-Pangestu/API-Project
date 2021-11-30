@@ -1,0 +1,73 @@
+﻿<Properties StartupConfiguration="runn">
+  <MonoDevelop.Ide.ItemProperties.Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Client/Views/TestCors/Index.cshtml">
+    <Files>
+      <File FileName="Controllers/AccountsController.cs" Line="98" Column="121" IsPinned="True" />
+      <File FileName="Startup.cs" Line="28" Column="43" />
+      <File FileName="../Client/Controllers/TestCors.cs" Line="14" Column="30" />
+      <File FileName="../Client/Views/TestCors/Index.cshtml" Line="46" Column="16" />
+      <File FileName="Controllers/EmployeesController.cs" Line="69" Column="41" />
+      <File FileName="Repository/Data/EmployeeRepository.cs" Line="14" Column="18" />
+      <File FileName="Program.cs" Line="27" Column="1" />
+      <File FileName="../Client/Program.cs" Line="1" Column="1" />
+      <File FileName="Controllers/AccountRoleController.cs" Line="27" Column="1" />
+      <File FileName="Repository/Data/EducationRepository.cs" Line="1" Column="1" />
+      <File FileName="Repository/Data/AccountRepository.cs" Line="76" Column="40" />
+      <File FileName="Repository/Data/AccountRoleRepository.cs" Line="36" Column="1" />
+      <File FileName="ViewModel/RoleVM.cs" Line="8" Column="6" />
+      <File FileName="appsettings.Development.json" Line="22" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Models/AccountRole.cs" Line="23" Column="6" />
+      <File FileName="Context/MyContext.cs" Line="60" Column="10" />
+      <File FileName="ViewModel/GetProfileVM.cs" Line="1" Column="1" />
+      <File FileName="../Client/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Repository/GeneralRepository.cs" Line="42" Column="1" />
+      <File FileName="ViewModel/LoginVM.cs" Line="24" Column="1" />
+      <File FileName="Controllers/EducationsController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/ProfilingsController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/UniversityController.cs" Line="1" Column="1" />
+      <File FileName="Repository/Data/UniversityRepository.cs" Line="26" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="API" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="Data" expanded="True" />
+              </Node>
+              <Node name="ViewModel" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="Client" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="TestCors" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Client/Client.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="runn" Name="runn">
+      <Items>
+        <StartupItem ItemId="{4F279271-3EB8-4475-8A02-B698C5888969}" ItemName="API" ConfigurationId="Default" />
+        <StartupItem ItemId="{A48DDFE7-1C25-4093-8B8B-8112D0E59E83}" ItemName="Client" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
